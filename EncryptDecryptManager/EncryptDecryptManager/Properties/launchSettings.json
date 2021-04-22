@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EncryptDecryptManager": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt --key ablw-3hn8-gqoy19 --text  CIA_API_USER_DEV"
+    }
+  }
+}
